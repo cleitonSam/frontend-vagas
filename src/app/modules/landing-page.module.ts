@@ -9,7 +9,6 @@ import { FormComponent } from './form/form.component';
 import { PokemonListComponent } from './pokemon-list/pokemon-list.component';
 import { HttpClientModule } from '@angular/common/http';
 import { MdbModalModule } from 'mdb-angular-ui-kit/modal';
-import { IvyCarouselModule } from 'angular-responsive-carousel';
 
 @NgModule({
   declarations: [HomeComponent, FormComponent, PokemonListComponent],
@@ -21,7 +20,6 @@ import { IvyCarouselModule } from 'angular-responsive-carousel';
     ReactiveFormsModule,
     HttpClientModule,
     MdbModalModule,
-    IvyCarouselModule,
   ],
 })
 export class HomeModule {}
