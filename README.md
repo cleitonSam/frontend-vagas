@@ -1,4 +1,8 @@
 
+para instalar ng install --force
+
+para rodar ng serve --open
+
 
 O nosso challenge para a <b>mais nova vaga de Front-end</b> consiste em desenvolver uma Landing Page de assunto de
 sua preferência, basta atender os requisitos abaixo:
